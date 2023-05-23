@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Apple
+  - Frog
+  - Snowball1
+  - Snowball2
+  - Snowball3
+  - FlyingBird
+  - feesh
+  - Log
+  - Bee
+  - Key
+  - Firefly1
+  - Firefly2
+  - Bucket
+  - Water
+  - Dump
+  - AppleCluster
+  - WaterCollider
+  - Lilipad
+  - Sprouts
+  - Finch
+  - Stump
+  - SnowmanMaker
+  - Log1
+  - Log2
+  - RainApple
+  - Butterfly
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Grabbable
+  - NonGrabInteractable
+  - Player
+  - High Foliage
+  - Low Foliage
+  - Bucket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 562006833
+    locked: 0
